@@ -21,4 +21,9 @@ Question 3.
 Question 4.
     This is the start of the funcition and want the it to look for numbers divisible by 5 before it checks for other numbers.
 
+Question 5.
+    unit tests are used to test a small piece of code
+
+    feature test are used to test
+
 
