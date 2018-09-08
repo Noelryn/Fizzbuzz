@@ -6,19 +6,19 @@
 
 Question 1. 
 
-let  fizzBuzz = fs.readFileSync('./src/js/fizz-buzz.js');
- eval( fizzBuzz + `\nexports.FizzBuzz = FizzBuzz;`)
+    I think it is saying to let fizzbuzz file sync with the fizzbuzz Javascript file in the source folder.
 
- I think it is saying to let fizzbuzz file sync with the fizzbuzz Javascript file in the source folder.
+Question 2.
 
- Question 2.
-
-The reason "let fizzBuzz = new FizzBuzz
+    The reason "let fizzBuzz = new FizzBuzz
 
 Question 3.
 
-"==": checks to see if objects are equal and returns true if so.
+    "==": checks to see if objects are equal and returns true if so.
 
-"===": checks to see of two objects are identical.
+    "===": checks to see of two objects are identical.
+
+Question 4.
+    This is the start of the funcition and want the it to look for numbers divisible by 5 before it checks for other numbers.
 
 
