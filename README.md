@@ -26,4 +26,6 @@ Question 5.
 
     feature test are used to test
 
+Question 6.
+
 
