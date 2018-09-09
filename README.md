@@ -5,6 +5,8 @@
 - Package used was npm
 - Tailwing used for styling
 
+- https://noelryn.github.io/Fizzbuzz//index.html Deployed site
+
 
 ##Questions
 
