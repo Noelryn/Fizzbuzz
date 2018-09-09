@@ -10,29 +10,32 @@
         <title>FizzBuzz</title>
     </head>
 
-<div class="py-12"></div>
+<div class="py-24"></div>
 
-<h1 class= "text-center">FizzBuzz</h1>
 
-<div class="py-16"></div>
+
 
     <body>
-        <div class="mb-4">
-            <div class="bg-white mx-auto max-w-sm  shadow-lg rounded-lg overflow-hidden">
-                    <div class="sm:flex sm:items-center px-12 py-8 shadow appearance-none border border-black inline-block">  
-                        <div class="block h-16 sm:h-24 py-32 rounded-full mx-auto mb-4 sm:mb-0 sm:mr-4 sm:ml-0">
-                      <div class="text-center sm:text-left sm:flex-grow">
-                        
+       
+            <div class=" bg-purple-lightest mx-auto max-w-sm shadow-lg rounded-lg overflow-hidden">
+                <div class="flex items-center h-64 ">
+                    <div class="h-64 md:max-w-xs md:mx-auto">
 
-        <input class="shadow appearance-none border border-black inline-block" type="text" id="value">
-        <input class="shadow appearance-none border border-black inline-block" type="submit" value="Check" id="button">
-        <div id="display_answer"></div>
-        </div>
-        </div>
-        </div>
-        </div>
-        </div>
-    
+                            <h1 class= "text-center py-4">FizzBuzz</h1>
+
+                        <div class="block p-8 flex-col flex mb-2 md:w-full">
+                          <input class="shadow appearance-none border border-black inline-block hover:border-grey-dark bg-grey-lightest text-center text-2xl py-4 px-3 font-sans font-thin text-black" id="value" type="text"></div>
+                            <div class="flex flex-col md:w-full">
+                                <input class= "block bg-red-light hover:bg-black hover:text-white text-black font-light font-serif text-2xl mx-auto mb-8 p-2 rounded shadow appearance-none border border-black inline-block" type="submit" value="Check" id="button"></div>
+                                           
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="block text-center uppercase text-3xl font-sans py-4 font-bold" id="display_answer"></div>   
+        
     </body>
 
     <script src="js/fizz-buzz.js"></script>

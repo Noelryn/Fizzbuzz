@@ -2,7 +2,7 @@
 - written in JavaScript 
 - Feature test done using e2e training wheels
 
-
+##Questions
 
 Question 1. 
     ANSWER
@@ -35,7 +35,8 @@ Question 5.
 Question 6.
     ANSWER
 
-
+    It is testing to see that if you type in number 3 and press the button
+    that it returns fizz.
 
 Question 7.
     ANSWER
@@ -71,6 +72,9 @@ Question 7.
 
     It will equals to Fizzbuzz depending on the number.
 
+Question 8.
+    ANSWER  
+    A CDN is a system of servers that deliver pages and web content to users, based on geographic locations of the users.
 
 
 
