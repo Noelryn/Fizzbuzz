@@ -1,6 +1,10 @@
 ### Fizzbuzz Weekend Challenge
-- written in JavaScript 
+
+- Written in JavaScript 
 - Feature test done using e2e training wheels
+- Package used was npm
+- Tailwing used for styling
+
 
 ##Questions
 

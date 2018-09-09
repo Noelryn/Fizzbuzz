@@ -21,7 +21,6 @@ describe('User can input a value and get FizzBuzz results', () => {
         expect(content).to.eql('Fizz');
     })
 
-    
 })
 
 
