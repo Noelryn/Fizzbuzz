@@ -81,9 +81,3 @@ Question 7.
 Question 8.
     ANSWER  
     A CDN is a system of servers that deliver pages and web content to users, based on geographic locations of the users.
-
-
-
-
-
-
