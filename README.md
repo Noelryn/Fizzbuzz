@@ -5,6 +5,8 @@
 - Package used was npm
 - Tailwing used for styling
 
+- https://noelryn.github.io/Fizzbuzz//index.html Deployed site
+
 
 ##Questions
 
@@ -79,9 +81,3 @@ Question 7.
 Question 8.
     ANSWER  
     A CDN is a system of servers that deliver pages and web content to users, based on geographic locations of the users.
-
-
-
-
-
-
