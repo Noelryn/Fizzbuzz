@@ -14,7 +14,7 @@ function FizzBuzz() {
     }
 }
 
-function FizzBuzz(){
+function FizzBuzz() {
     this.check = (number) => {
         if (number % 5 === 0) {
             return 'Buzz';
